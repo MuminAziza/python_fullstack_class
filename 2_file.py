@@ -1,2 +1,2 @@
 # first code for python
-print  ("Hello cats!")
+print  ("Hello dogs!")
